@@ -22,7 +22,7 @@
 
 Immersive Mitosis Lab is a self-contained React component that provides a visually rich, interactive 3D simulation of the cell division process. Built with **React Three Fiber** and **Next.js**, it offers an educational and dynamic experience, allowing users to observe cells progressing through the different stages of mitosis in a beautifully rendered environment.
 
-[**Live Demo »**](<your-live-demo-url-here>)
+[**Live Demo »**](https://scale-cds-public-us-west-2.s3.amazonaws.com/65cbc42b32ffab95dd54b864/b79fmiz99xFIBAJ)
 
 ---
 
